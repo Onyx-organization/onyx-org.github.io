@@ -1,4 +1,7 @@
-
+body{
+    background-color:black;
+    margin:0;
+}
 #siteHeader{
     color: white;
     display: flex;
@@ -22,4 +25,15 @@
 a{
     text-decoration: none;
     color:white;
+}
+section{
+    display: flex 
+}
+.rede{
+    padding-left: 40px;
+    line-height: 55px;
+}
+p a img{
+    width: 20px;
+    height: 20px;
 }
