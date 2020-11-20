@@ -45,5 +45,11 @@
    <div id="main">
     <img src="prime.jpg" alt="slide show" id="banner">
 </div>
+<script>
+    var intervalo = 3000;
+    function slide1(){
+        document.getElementById("banner").src="prime.jpg";
+        setTimeout("slide2()",intervalo);
+    }
 </body>
 </html>
