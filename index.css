@@ -87,3 +87,19 @@ h1 a:hover{
 h1 a{
   font-size: 50px;
 }
+#video{
+    margin-left: 380px;
+   margin-right: 200px;
+   align-self: center;
+}
+#last{
+    color:white;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align:center;
+}
+iframe{
+   border: cyan solid;
+   margin-top: 10px;
+   
+}
