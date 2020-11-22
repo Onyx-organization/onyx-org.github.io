@@ -103,3 +103,14 @@ iframe{
    margin-top: 10px;
    
 }
+#sitefooter{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+footer{
+    background-color: cyan;
+    padding: 15px;
+    max-height: 15px;
+    font-size: 15px;
+    
+}
