@@ -38,3 +38,11 @@ p a img{
     width: 20px;
     height: 20px;
 }
+#banner{
+    max-width: 100%;
+
+}
+#main{
+    max-width: 800px;
+    margin: 0 auto;
+}
