@@ -46,3 +46,44 @@ p a img{
     max-width: 800px;
     margin: 0 auto;
 }
+table{
+    color: white;
+    border-spacing: 2px;
+}
+#tabela{
+    display: flex;
+    margin-top: 13px;
+}
+tr {
+    height: 50px;
+}
+td {
+    width: 120px;
+    text-align: center;
+}
+button{
+    background-color:cyan;   
+}
+button a{
+    color: black;
+}
+#nome{
+      background-color: rgb(228, 41, 72);
+}
+#prop{
+    background-image: url("live.jpg");
+    width: 400px;
+    margin:0;
+    text-align: center;
+    margin-inline-start: 270px;
+}
+h1 p{
+    color: white;
+    margin-top: 50px;
+}
+h1 a:hover{
+    color:cyan;
+}
+h1 a{
+  font-size: 50px;
+}
